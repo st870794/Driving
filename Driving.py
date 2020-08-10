@@ -11,4 +11,8 @@ elif country == '美國':
 		print('你可以考駕照了')
 	else:
 		print('你還不可以考駕照')
-
+if country == '紐西蘭':
+	if age >= 15:
+		print('你可以考駕照了')
+	else:
+		print('你還不能考駕照')
